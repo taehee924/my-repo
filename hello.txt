@@ -1,3 +1,4 @@
-This is a Git practice file.
+This is a Git 
 
 충돌 해결 실습
+1열 단어 조금 지움
