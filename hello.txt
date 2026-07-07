@@ -1,4 +1,4 @@
-This is a Git 
+This is a Git practice file.
 
 충돌 해결 실습
 1열 단어 조금 지움
